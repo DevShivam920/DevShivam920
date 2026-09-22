@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hello, I'm Shivam Singh
 
 ### 🚀 Android Developer | Mobile App Development Enthusiast
